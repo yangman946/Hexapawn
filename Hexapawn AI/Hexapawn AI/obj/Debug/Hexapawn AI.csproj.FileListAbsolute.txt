@@ -1,0 +1,28 @@
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\Hexapawn AI.exe.config
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\Hexapawn AI.exe
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\Hexapawn AI.pdb
+D:\C# projects\Hexapawn AI\Hexapawn AI\obj\Debug\Hexapawn AI.csprojAssemblyReference.cache
+D:\C# projects\Hexapawn AI\Hexapawn AI\obj\Debug\Hexapawn_AI.Form1.resources
+D:\C# projects\Hexapawn AI\Hexapawn AI\obj\Debug\Hexapawn_AI.Properties.Resources.resources
+D:\C# projects\Hexapawn AI\Hexapawn AI\obj\Debug\Hexapawn AI.csproj.GenerateResource.cache
+D:\C# projects\Hexapawn AI\Hexapawn AI\obj\Debug\Hexapawn AI.exe
+D:\C# projects\Hexapawn AI\Hexapawn AI\obj\Debug\Hexapawn AI.pdb
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\System.Buffers.dll
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\System.Memory.dll
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\System.Numerics.Vectors.dll
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\System.Text.Encodings.Web.dll
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\System.Text.Json.dll
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\System.ValueTuple.dll
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\System.Buffers.xml
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\System.Memory.xml
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\System.Numerics.Vectors.xml
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\System.Text.Encodings.Web.xml
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\System.Text.Json.xml
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C# projects\Hexapawn AI\Hexapawn AI\bin\Debug\System.ValueTuple.xml
+D:\C# projects\Hexapawn AI\Hexapawn AI\obj\Debug\Hexapawn AI.csproj.CopyComplete
